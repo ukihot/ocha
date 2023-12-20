@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocha=self.webpackChunkocha||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MDX Blog Post","permalink":"/blog/hello","unlisted":false},{"title":"Welcome","permalink":"/blog/welcome","unlisted":false}]}')}}]);

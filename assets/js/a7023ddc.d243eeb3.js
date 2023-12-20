@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocha=self.webpackChunkocha||[]).push([[713],{3457:a=>{a.exports=JSON.parse('[{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":2},{"label":"facebook","permalink":"/blog/tags/facebook","count":1},{"label":"hello","permalink":"/blog/tags/hello","count":1}]')}}]);
